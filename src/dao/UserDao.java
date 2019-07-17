@@ -8,5 +8,5 @@ package dao;
 public interface UserDao {
 void addUser();
 void deleteUser();
-
+void syso();
 }
